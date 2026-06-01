@@ -41,6 +41,6 @@ Simulation d’un environnement Helpdesk entreprise avec GLPI et Windows Server 
 ## Adresse GLPI Saisi sur le post client pour accéder à l'interface GLPI
 
 ```text
-http://192.168.56.50:80/glpi
+http://192.168.56.50:8080/glpi
 ```
-(Il faut savoir que: cette Ip correspond à l'adresse Ip du serveur DC-ALPHA
+(Il faut savoir que: cette Ip correspond à l'adresse Ip du serveur DC-ALPHA)
