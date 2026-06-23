@@ -1,6 +1,6 @@
 # Incidents simulés – GLPI Enterprise Support Lab
 
-Dans le cadre de mon laboratoire personnel orienté support informatique, j'ai entrepris de simuler 20 incidents couramment rencontrés en entreprise afin de développer une méthodologie de diagnostic, de résolution et de documentation.
+Dans le cadre de mon laboratoire personnel orienté support informatique, j'ai entrepris de simuler 9 incidents couramment rencontrés en entreprise afin de développer une méthodologie de diagnostic, de résolution et de documentation.
 
 À ce jour, les incidents suivants ont été simulés et résolus :
 
